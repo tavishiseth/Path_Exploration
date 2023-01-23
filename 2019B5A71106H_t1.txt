@@ -1,0 +1,2176 @@
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 
+[606020:606021] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 
+[606021:606022] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 6 
+[606021:606022] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 
+[606020:606021] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 
+[606020:606021] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 0 
+[606020:606021] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 
+[606020:606023] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 8 
+[606020:606023] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 2 
+[606019:606020] Exploring Path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 
+[606019:606024] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 
+[606024:606025] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 6 
+[606024:606025] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 
+[606019:606024] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 
+[606019:606024] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 0 
+[606019:606024] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 
+[606019:606026] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 8 
+[606019:606026] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 2 
+[606018:606019] Exploring Path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 7 6 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 
+[606027:606028] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 
+[606028:606029] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 6 
+[606028:606029] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 
+[606027:606028] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 
+[606027:606028] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 0 
+[606027:606028] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 
+[606027:606030] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 8 
+[606027:606030] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 2 
+[606018:606027] Exploring Path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 
+[606018:606031] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 
+[606031:606032] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 6 
+[606031:606032] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 
+[606018:606031] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 
+[606018:606031] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 0 
+[606018:606031] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 
+[606018:606033] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 8 
+[606018:606033] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 2 
+[606017:606018] Exploring Path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 7 8 5 2 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 
+[606035:606036] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 
+[606036:606037] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 6 
+[606036:606037] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 
+[606035:606036] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 
+[606035:606036] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 0 
+[606035:606036] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 
+[606035:606038] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 8 
+[606035:606038] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 2 
+[606034:606035] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 
+[606034:606039] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 
+[606039:606040] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 6 
+[606039:606040] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 
+[606034:606039] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 
+[606034:606039] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 0 
+[606034:606039] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 
+[606034:606041] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 8 
+[606034:606041] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 2 
+[606017:606034] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 1 0 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 
+[606042:606043] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 
+[606043:606044] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 6 
+[606043:606044] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 
+[606042:606043] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 
+[606042:606043] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 0 
+[606042:606043] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 
+[606042:606045] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 8 
+[606042:606045] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 2 
+[606017:606042] Exploring Path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 
+[606017:606046] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 
+[606046:606047] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 6 
+[606046:606047] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 
+[606017:606046] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 
+[606017:606046] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 0 
+[606017:606046] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 
+[606017:606048] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 8 
+[606017:606048] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606016:606017] Exploring Path: 0 1 4 7 6 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 2 
+[606016:606017] Exploring Path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 7 6 3 4 1 2 5 2 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 
+[606051:606052] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 
+[606052:606053] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 6 
+[606052:606053] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 
+[606051:606052] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 
+[606051:606052] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 0 
+[606051:606052] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 
+[606051:606054] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 8 
+[606051:606054] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 2 
+[606050:606051] Exploring Path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 
+[606050:606055] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 
+[606055:606056] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 6 
+[606055:606056] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 
+[606050:606055] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 
+[606050:606055] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 0 
+[606050:606055] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 
+[606050:606057] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 8 
+[606050:606057] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 2 
+[606049:606050] Exploring Path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 7 6 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 
+[606058:606059] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 
+[606059:606060] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 6 
+[606059:606060] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 
+[606058:606059] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 
+[606058:606059] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 0 
+[606058:606059] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 
+[606058:606061] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 8 
+[606058:606061] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 2 
+[606049:606058] Exploring Path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 
+[606049:606062] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 
+[606062:606063] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 6 
+[606062:606063] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 
+[606049:606062] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 
+[606049:606062] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 0 
+[606049:606062] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 
+[606049:606064] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 8 
+[606049:606064] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 2 
+[606016:606049] Exploring Path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 7 8 5 2 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 
+[606066:606067] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 
+[606067:606068] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 6 
+[606067:606068] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 
+[606066:606067] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 
+[606066:606067] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 0 
+[606066:606067] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 
+[606066:606069] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 8 
+[606066:606069] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 2 
+[606065:606066] Exploring Path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 
+[606065:606070] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 
+[606070:606071] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 6 
+[606070:606071] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 
+[606065:606070] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 
+[606065:606070] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 0 
+[606065:606070] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 
+[606065:606072] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 8 
+[606065:606072] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 2 
+[606016:606065] Exploring Path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 1 0 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 
+[606073:606074] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 
+[606074:606075] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 6 
+[606074:606075] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 
+[606073:606074] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 
+[606073:606074] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 0 
+[606073:606074] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 
+[606073:606076] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 8 
+[606073:606076] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 2 
+[606016:606073] Exploring Path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 
+[606016:606077] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 
+[606077:606078] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 6 
+[606077:606078] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 
+[606016:606077] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 
+[606016:606077] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 0 
+[606016:606077] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 
+[606016:606079] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 8 
+[606016:606079] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 
+[606015:606016] Exploring Path: 0 1 4 7 8 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 2 
+[606015:606016] Exploring Path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 7 8 5 4 1 2 5 2 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 
+[606083:606084] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 
+[606084:606085] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 6 
+[606084:606085] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 
+[606083:606084] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 
+[606083:606084] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 0 
+[606083:606084] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 
+[606083:606086] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 8 
+[606083:606086] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 2 
+[606082:606083] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 
+[606082:606087] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 
+[606087:606088] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 6 
+[606087:606088] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 
+[606082:606087] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 
+[606082:606087] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 0 
+[606082:606087] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 
+[606082:606089] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 8 
+[606082:606089] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 2 
+[606081:606082] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 
+[606090:606091] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 
+[606091:606092] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 6 
+[606091:606092] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 
+[606090:606091] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 
+[606090:606091] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 0 
+[606090:606091] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 
+[606090:606093] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 8 
+[606090:606093] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 2 
+[606081:606090] Exploring Path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 
+[606081:606094] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 
+[606094:606095] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 6 
+[606094:606095] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 
+[606081:606094] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 
+[606081:606094] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 0 
+[606081:606094] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 
+[606081:606096] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 8 
+[606081:606096] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 2 
+[606080:606081] Exploring Path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 7 8 5 2 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 
+[606098:606099] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 
+[606099:606100] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 6 
+[606099:606100] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 
+[606098:606099] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 
+[606098:606099] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 0 
+[606098:606099] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 
+[606098:606101] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 8 
+[606098:606101] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 2 
+[606097:606098] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 
+[606097:606102] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 
+[606102:606103] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 6 
+[606102:606103] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 
+[606097:606102] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 
+[606097:606102] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 0 
+[606097:606102] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 
+[606097:606104] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 8 
+[606097:606104] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 2 
+[606080:606097] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 
+[606105:606106] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 
+[606106:606107] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 6 
+[606106:606107] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 
+[606105:606106] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 
+[606105:606106] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 0 
+[606105:606106] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 
+[606105:606108] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 8 
+[606105:606108] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 2 
+[606080:606105] Exploring Path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 
+[606080:606109] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 
+[606109:606110] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 6 
+[606109:606110] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 
+[606080:606109] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 
+[606080:606109] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 0 
+[606080:606109] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 
+[606080:606111] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 8 
+[606080:606111] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 2 
+[606015:606080] Exploring Path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 1 0 3 4 1 2 5 2 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 
+[606114:606115] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 
+[606115:606116] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 6 
+[606115:606116] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 
+[606114:606115] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 
+[606114:606115] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 0 
+[606114:606115] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 
+[606114:606117] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 8 
+[606114:606117] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 2 
+[606113:606114] Exploring Path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 
+[606113:606118] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 
+[606118:606119] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 6 
+[606118:606119] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 
+[606113:606118] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 
+[606113:606118] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 0 
+[606113:606118] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 
+[606113:606120] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 8 
+[606113:606120] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 2 
+[606112:606113] Exploring Path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 7 6 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 
+[606121:606122] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 
+[606122:606123] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 6 
+[606122:606123] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 
+[606121:606122] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 
+[606121:606122] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 0 
+[606121:606122] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 
+[606121:606124] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 8 
+[606121:606124] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 2 
+[606112:606121] Exploring Path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 
+[606112:606125] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 
+[606125:606126] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 6 
+[606125:606126] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 
+[606112:606125] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 
+[606112:606125] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 0 
+[606112:606125] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 
+[606112:606127] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 8 
+[606112:606127] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 2 
+[606015:606112] Exploring Path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 7 8 5 2 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 
+[606129:606130] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 
+[606130:606131] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 6 
+[606130:606131] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 
+[606129:606130] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 
+[606129:606130] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 0 
+[606129:606130] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 6 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 
+[606129:606132] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 8 
+[606129:606132] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 2 
+[606128:606129] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 6 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 
+[606128:606133] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 
+[606133:606134] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 6 
+[606133:606134] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 
+[606128:606133] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 
+[606128:606133] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 0 
+[606128:606133] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 
+[606128:606135] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 8 
+[606128:606135] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 2 
+[606015:606128] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 
+[606136:606137] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 
+[606137:606138] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 6 
+[606137:606138] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 
+[606136:606137] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 
+[606136:606137] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 0 
+[606136:606137] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 8 7 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 
+[606136:606139] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 8 
+[606136:606139] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 2 
+[606015:606136] Exploring Path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 8 7 4 5 2 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 
+[606015:606140] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 
+[606140:606141] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 6 
+[606140:606141] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 6 7 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 6 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 
+[606015:606140] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 
+[606015:606140] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 0 
+[606015:606140] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 0 1 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 2 1 4 3 0 1 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 
+[606015:606142] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 8 
+[606015:606142] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 8 7 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 8 7 
+[596958:606015] Exploring Path: 0 
+[596958:606015] Exploring Path: 0 1 
+[596958:606015] Exploring Path: 0 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 2 
+[596958:606015] Exploring Path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 2 1 
+Failed at path: 0 1 4 1 2 5 4 1 2 5 2 1 4 5 2 1 
